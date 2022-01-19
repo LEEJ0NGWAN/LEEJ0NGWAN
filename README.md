@@ -1,4 +1,18 @@
-### Hi there 👋
+# Lee Jong Wan
+
+## Backend Developer
+
+### Language
+Korean, English, Japanese
+
+### Mainly use
+Java(with Spring boot, PaaS based on Kubernetes)
+
+### Interested in
+improving performance, test coverage, refactoring, Kotlin
+
+### Also can use
+javascript(react, Node.js), python3(Django, Flask with Monolithic Architecture)
 
 <!--
 **LEEJ0NGWAN/LEEJ0NGWAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
