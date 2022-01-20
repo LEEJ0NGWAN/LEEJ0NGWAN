@@ -11,7 +11,7 @@ Java(with Spring boot, PaaS based on Kubernetes)
 ### Interested in
 improving performance, test coverage, refactoring, Kotlin
 
-### Also can use
+### can also use
 javascript(react, Node.js), python3(Django, Flask with Monolithic Architecture)
 
 <!--
