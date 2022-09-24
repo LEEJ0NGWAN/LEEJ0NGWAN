@@ -6,7 +6,7 @@
 Korean, English, Japanese
 
 ### Mainly use
-Java8(with Spring boot, PaaS based on Kubernetes)
+Java(with Spring boot, PaaS based on Kubernetes)
 
 ### Interested in
 improving performance, test coverage, refactoring, Kotlin
