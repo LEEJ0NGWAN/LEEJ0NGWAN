@@ -12,7 +12,7 @@ Java(with Spring boot, PaaS based on Kubernetes)
 improving performance, test coverage, refactoring, Kotlin
 
 ### can also use
-javascript(react, Node.js), python3(Django, Flask with Monolithic Architecture)
+javascript, python3
 
 <!--
 **LEEJ0NGWAN/LEEJ0NGWAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
