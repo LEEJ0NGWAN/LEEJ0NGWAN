@@ -4,7 +4,8 @@
 
 Fintech backend developer (🇯🇵 or 🇰🇷)
 
-language: Japanese or Korean
+language: Japanese or Korean  
+
 work history:
 
 1. TMAX , opensource DB backend engineer (Seoul, Korea)
