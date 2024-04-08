@@ -18,6 +18,7 @@ Fintech backend developer (🇯🇵 or 🇰🇷)
   
   - Shinhan Bank Japan, backend developer (Tokyo, Japan)  
     2021.10 ~ 2023.10
+    - PayPay money charge service for SBJ bank, UI bank api development
     - online housing loan api development
     - foreign currency exchange api development
     - core banking system broker refactoring
